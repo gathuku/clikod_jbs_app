@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "327031280061",
+    "firebase_url": "https://jbsmobile-bd1bd.firebaseio.com",
+    "project_id": "jbsmobile-bd1bd",
+    "storage_bucket": "jbsmobile-bd1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327031280061:android:9b239f7b64f9bb9d",
+        "android_client_info": {
+          "package_name": "com.example.flutterdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327031280061-435rdjgudid9nh9uep7qhbtggrm9tqvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafERqivCGe6OBhu83Ci2lt0AGxuBxo8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
